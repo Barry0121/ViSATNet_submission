@@ -7,7 +7,6 @@ __pycache__/
 
 # Data file
 /data/
-/output/
 /saved_results/
 /mnist_rule/debug/layer2_results_*
 
